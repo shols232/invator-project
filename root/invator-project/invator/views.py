@@ -1,5 +1,5 @@
 from django.shortcuts import render
-import weasyprint
+#import weasyprint
 from root.utils import render_to_pdf
 from django.http import Http404, HttpResponse
 from datetime import datetime
